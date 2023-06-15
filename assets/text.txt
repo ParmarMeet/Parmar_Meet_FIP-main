@@ -1,0 +1,56 @@
+Burple - website Information
+
+Boxes Measurements/Height
+
+Home Page
+Mobile:
+Hero Slider: 768 x 340px
+One Image: 768 x 250px
+Video Player: 768 x 250px
+Image About Us: 768 x 380px
+
+Tablet:
+Hero Slider: 1930 x 420px
+Each Image of Flavor: 768 x 250px
+Video Player: 1800 x 420px
+Image About Us: 1930 x 380px
+
+Desktop 1200px:
+Hero Slider: 1930 x 500px
+Each Image of Flavor: 922 x 250px
+Video Player: 1800 x 450px
+Image About Us: 1930 x 450px
+
+Desktop 1920px:
+Hero Slider: 1930 x 530px
+Each Image of Flavor: 922 x 300px
+Video Player: 1800 x 500px
+Image About Us: 1930 x 500px
+
+
+
+Products Page
+Mobile:
+Hero Image: 768 width x 340px height
+Variety Pack slideshow: 768 width x 250px height each image
+Image and text - Flavors: 768 width x 400px height
+Featured Recipe image, text and button: 768 x 380px height
+
+Tablet:
+Hero Image: 1930 x 420px
+Variety Pack slideshow: 768 x 380px each image
+Image and text - Flavors: 768 x 400px
+Featured Recipe image, text and button: 1930 x 380px
+
+Desktop 1200px:
+Hero Image: 1930 x 500px
+Variety Pack slideshow: 768 x 380px each image
+Image and text - Flavors: 768 x 400px
+Featured Recipe image, text and button: 1930 X 500px
+
+Desktop 1920px:
+Hero Image: 1930 x 530px
+Variety Pack slideshow: 768 x 300px each image
+Image and text - Flavors: 768 x 400px
+Featured Recipe image, text and button: 1930 x 520px
+
